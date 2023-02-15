@@ -29,6 +29,7 @@
 		0EDFF043299D41EC0025BBE8 /* MeetingFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EDFF042299D41EC0025BBE8 /* MeetingFooterView.swift */; };
 		0EDFF045299D4C260025BBE8 /* AVPlayer+Ding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EDFF044299D4C260025BBE8 /* AVPlayer+Ding.swift */; };
 		0EDFF048299D4C740025BBE8 /* ding.wav in Resources */ = {isa = PBXBuildFile; fileRef = 0EDFF047299D4C740025BBE8 /* ding.wav */; };
+		0EDFF04A299D5E380025BBE8 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EDFF049299D5E380025BBE8 /* History.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -74,6 +75,7 @@
 		0EDFF042299D41EC0025BBE8 /* MeetingFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingFooterView.swift; sourceTree = "<group>"; };
 		0EDFF044299D4C260025BBE8 /* AVPlayer+Ding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AVPlayer+Ding.swift"; sourceTree = "<group>"; };
 		0EDFF047299D4C740025BBE8 /* ding.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ding.wav; sourceTree = "<group>"; };
+		0EDFF049299D5E380025BBE8 /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,6 +178,7 @@
 				0E6E64D2299C203F00A56503 /* DailyScrum.swift */,
 				0EDFF040299D3E6C0025BBE8 /* ScrumTimer.swift */,
 				0EDFF044299D4C260025BBE8 /* AVPlayer+Ding.swift */,
+				0EDFF049299D5E380025BBE8 /* History.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -319,6 +322,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0EDFF04A299D5E380025BBE8 /* History.swift in Sources */,
 				0EDFF03B299D18290025BBE8 /* ThemePicker.swift in Sources */,
 				0EDFF03F299D3DAD0025BBE8 /* ScrumProgressViewStyle.swift in Sources */,
 				0EDFF043299D41EC0025BBE8 /* MeetingFooterView.swift in Sources */,
