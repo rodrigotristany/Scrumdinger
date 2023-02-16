@@ -1,0 +1,2 @@
+# Scrumdinger
+SwitfUI training project
